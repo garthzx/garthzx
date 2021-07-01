@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @garthzx
-- 👀 I’m interested in coding, coding, and coding
-- 🌱 I’m currently learning game and web development
+- 👀 I’m interested in game development and data analysis. 
 
 <!---
 garthzx/garthzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
