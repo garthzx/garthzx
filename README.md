@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garthzx
-- 👀 I’m interested in game development and data analysis. 
+- 👀 I’m interested in game development (w/o game engines) and data science.
 
 <!---
 garthzx/garthzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
