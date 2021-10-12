@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @garthzx
-- 👀 I’m interested in game development (w/o game engines) and data science. Currently learning Statistics, Linear Algebra, Python, and more Java. 
+- 👀 Currently learning creative coding and web development with Java as the back-end.  
 
 <!---
 garthzx/garthzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
